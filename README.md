@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hebaade
-- 👀 I’m interested iى Web developing
+- 👋 Hi, I’m Heba Adel
+- 👀 I’m interested in Web developing
 - 🌱 I’m currently learning js
 - 📫 How to reach me hebaadelali78@gmail.com
 
