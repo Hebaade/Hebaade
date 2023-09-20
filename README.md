@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Heba Adel
 - 👀 I’m interested in Web developing
+-    MERN Stack Developer
 - 📫 How to reach me hebaadelali78@gmail.com
 
 <!---
