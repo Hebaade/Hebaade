@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/heba adel](https://www.linkedin.com/in/heba-adel-24a583221)" target="_blank"><img src="https://img.shields.io/badge/-heba%20adel-24a583221?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/heba-adel-24a583221" target="_blank"><img src="https://img.shields.io/badge/-heba%20adel-24a583221?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100017641920604&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-heba%20adel-24a583221?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
