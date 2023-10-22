@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<img width="250" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h3 align="center">
   Welcome to Heba Adel's profile!
