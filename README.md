@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN-Stack%20Seb%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a MERN stack developer
@@ -28,16 +28,20 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=339933)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Express.js](https://img.shields.io/badge/-express.js-05122A?style=flat&logo=express.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Andriod%20Studio-05122A?style=flat&logo=andriod-studio)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)&nbsp;
-
+![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
+![Orecal](https://img.shields.io/badge/-orecal-05122A?style=flat&logo=orecal)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=mysql)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
+![Verilog](https://img.shields.io/badge/-verilog-05122A?style=flat&logo=verilog)&nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hebaade&show_icons=true&locale=en&layout=compact" alt="Hebaade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hebaade&" alt="Hebaade" /></p>
