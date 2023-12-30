@@ -37,5 +37,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Andriod%20Studio-05122A?style=flat&logo=andriod-studio)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hebaade&show_icons=true&locale=en&layout=compact" alt="Hebaade"
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hebaade&show_icons=true&locale=en&layout=compact" alt="Hebaade" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hebaade&" alt="Hebaade" /></p>
