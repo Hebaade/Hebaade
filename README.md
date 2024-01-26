@@ -13,7 +13,7 @@
 
 - 🏢 I'm a MERN stack developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, React.JS, and Node.JS, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, React.JS, and Node.JS,python numpy and pandas or anything related to web development and data science.
 
 
 ### Connect with Me :
