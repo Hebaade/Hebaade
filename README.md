@@ -42,6 +42,8 @@
 ![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=mysql)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
 ![Verilog](https://img.shields.io/badge/-verilog-05122A?style=flat&logo=verilog)&nbsp;
+![numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
+![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hebaade&show_icons=true&locale=en&layout=compact" alt="Hebaade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hebaade&" alt="Hebaade" /></p>
