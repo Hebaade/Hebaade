@@ -37,13 +37,15 @@
 ![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
-![Orecal](https://img.shields.io/badge/-orecal-05122A?style=flat&logo=orecal)&nbsp;
+![oracle](https://img.shields.io/badge/-oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=mysql)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
 ![Verilog](https://img.shields.io/badge/-verilog-05122A?style=flat&logo=verilog)&nbsp;
 ![numpy](https://img.shields.io/badge/-numpy-05122A?style=flat&logo=numpy)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas)&nbsp;
+![seaborn](https://img.shields.io/badge/-seaborn-05122A?style=flat&logo=seaborn)&nbsp;
+![matplotlib](https://img.shields.io/badge/-matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hebaade&show_icons=true&locale=en&layout=compact" alt="Hebaade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hebaade&" alt="Hebaade" /></p>
